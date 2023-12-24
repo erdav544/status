@@ -1,6 +1,7 @@
 # Change these first
 owner: erdav544 # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+user-agent: erdav544
 
 sites:
   - name: Stirling PDF
@@ -10,6 +11,7 @@ sites:
   - name: Sun Pegasus
     check: "tcp-ping"
     url: $SUN_PEGASUS_IP
+    port: 80
   - name: Twilight
     check: "tcp-ping"
     url: $TWILIGHT_IP
