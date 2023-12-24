@@ -5,13 +5,12 @@ user-agent: erdav544
 
 sites:
   - name: Stirling PDF
-    url: https://pdf.erdav.eu.org
+    url: https://pdff.erdav.eu.org
   - name: TeleDrive
     url: https://teledrive.erdav.eu.org
   - name: Sun Pegasus
     check: "tcp-ping"
     url: $SUN_PEGASUS_IP
-    port: 80
   - name: Twilight
     check: "tcp-ping"
     url: $TWILIGHT_IP
