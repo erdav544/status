@@ -1,22 +1,22 @@
 [
   {
     "name": "Stirling PDF",
-    "url": "https://pdff.erdav.eu.org",
-    "icon": "https://icons.duckduckgo.com/ip3/pdff.erdav.eu.org.ico",
+    "url": "https://pdf.erdav.eu.org",
+    "icon": "https://icons.duckduckgo.com/ip3/pdf.erdav.eu.org.ico",
     "slug": "stirling-pdf",
-    "status": "down",
-    "uptime": "71.30%",
-    "uptimeDay": "71.30%",
-    "uptimeWeek": "71.30%",
-    "uptimeMonth": "71.30%",
-    "uptimeYear": "71.30%",
-    "time": 744,
-    "timeDay": 744,
-    "timeWeek": 744,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "status": "up",
+    "uptime": "68.69%",
+    "uptimeDay": "68.69%",
+    "uptimeWeek": "68.69%",
+    "uptimeMonth": "68.69%",
+    "uptimeYear": "68.69%",
+    "time": 742,
+    "timeDay": 742,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2023-12-24": 19
+      "2023-12-24": 22
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 461,
-    "timeWeek": 461,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "time": 451,
+    "timeDay": 451,
+    "timeWeek": 451,
+    "timeMonth": 451,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "time": 223,
+    "timeDay": 223,
+    "timeWeek": 223,
+    "timeMonth": 223,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 98,
-    "timeWeek": 98,
-    "timeMonth": 98,
-    "timeYear": 98,
+    "time": 96,
+    "timeDay": 96,
+    "timeWeek": 96,
+    "timeMonth": 96,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   }
 ]
