@@ -23,7 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Erdav's Systems Status
   introTitle: "Welcome to Erdav's systems status page."
-  introMessage: Below you'll status information for each of Erdav's services in **realtime**.
+  introMessage: Below you'll find status information for each of Erdav's services in **real-time**.
   navbar:
     - title: Status
       href: /
