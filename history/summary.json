@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 541,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "time": 768,
+    "timeDay": 768,
+    "timeWeek": 768,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 384,
-    "timeWeek": 384,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "time": 484,
+    "timeDay": 484,
+    "timeWeek": 484,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Sun Pegasus",
+    "url": "$SUN_PEGASUS_IP",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "sun-pegasus",
+    "status": "down",
+    "uptime": "7.61%",
+    "uptimeDay": "7.61%",
+    "uptimeWeek": "7.61%",
+    "uptimeMonth": "7.61%",
+    "uptimeYear": "7.61%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-24": 0
+    }
+  },
+  {
+    "name": "Twilight",
+    "url": "$TWILIGHT_IP",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "twilight",
+    "status": "down",
+    "uptime": "12.93%",
+    "uptimeDay": "12.93%",
+    "uptimeWeek": "12.93%",
+    "uptimeMonth": "12.93%",
+    "uptimeYear": "12.93%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-24": 0
+    }
   }
 ]
