@@ -5,7 +5,7 @@ user-agent: erdav544
 
 sites:
   - name: Stirling PDF
-    url: https://pdff.erdav.eu.org
+    url: https://pdf.erdav.eu.org
   - name: TeleDrive
     url: https://teledrive.erdav.eu.org
   - name: Sun Pegasus
