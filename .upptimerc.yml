@@ -1,7 +1,7 @@
 # Change these first
 owner: erdav544 # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-user-agent: erdav544
+user-agent: Erdav_UA
 
 sites:
   - name: Stirling PDF
@@ -24,6 +24,11 @@ status-website:
   name: Erdav's Systems Status
   introTitle: "Welcome to Erdav's systems status page."
   introMessage: Below you'll find status information for each of Erdav's services in **real-time**.
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   navbar:
     - title: Status
       href: /
