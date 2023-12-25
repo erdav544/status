@@ -6,7 +6,7 @@ user-agent: erdav544
 sites:
   - name: Stirling PDF
     url: https://pdf.erdav.eu.org
-    expectedStatusCode:
+    expectedStatusCodes:
       - 403
   - name: TeleDrive
     url: https://teledrive.erdav.eu.org
