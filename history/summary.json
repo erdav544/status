@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdf.erdav.eu.org.ico",
     "slug": "stirling-pdf",
     "status": "up",
-    "uptime": "91.42%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "91.42%",
-    "uptimeYear": "91.42%",
+    "uptime": "91.75%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "91.75%",
+    "uptimeYear": "91.75%",
     "time": 538,
     "timeDay": 637,
     "timeWeek": 538,
     "timeMonth": 538,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2023-12-27": 11,
+      "2023-12-27": 0,
       "2023-12-26": 20,
       "2023-12-25": 306,
       "2023-12-24": 22
@@ -29,7 +29,7 @@
     "slug": "tele-drive",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 482,
     "timeMonth": 482,
     "timeYear": 482,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-27": 0
+    }
   },
   {
     "name": "Sun Pegasus",
