@@ -1,7 +1,7 @@
 url: https://teledrive.erdav.eu.org
-status: up
-code: 200
-responseTime: 362
-lastUpdated: 2024-03-06T13:00:12.610Z
+status: down
+code: 502
+responseTime: 307
+lastUpdated: 2024-03-06T15:20:16.617Z
 startTime: 2023-12-24T07:09:19.310Z
 generator: Upptime <https://github.com/upptime/upptime>
