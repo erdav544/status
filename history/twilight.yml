@@ -1,7 +1,7 @@
 url: $TWILIGHT_IP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-07T23:10:02.614Z
+status: up
+code: 200
+responseTime: 82
+lastUpdated: 2024-05-08T01:23:29.947Z
 startTime: 2023-12-24T07:38:35.620Z
 generator: Upptime <https://github.com/upptime/upptime>
